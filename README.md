@@ -197,9 +197,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ritesh Sharma - [@riteshstwt](https://twitter.com/riteshstwt) - rsharma3499@gmail.com
+Yash Tarate - [@riteshstwt](https://twitter.com/yashtarate) - yashtarate12@gmail.com
 
-Project Link: [https://github.com/theriteshsharma/Ecommerce-MERN](https://github.com/theriteshsharma/Ecommerce-MERN)
+Project Link: [[https://github.com/theriteshsharma/Ecommerce-MERN](https://6635da68861482b3b94e0260--fantastic-heliotrope-643979.netlify.app/)]([https://github.com/theriteshsharma/Ecommerce-MERN](https://6635da68861482b3b94e0260--fantastic-heliotrope-643979.netlify.app/))
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
