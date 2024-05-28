@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/theriteshsharma/Ecommerce-MERN">
-    <img src="img-readme/logo.png" alt="Logo" width="80" height="80">
+    <img src="./frontend/src/assets/lo" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center">🛒 MERN Ecommerce</h2>
